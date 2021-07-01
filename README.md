@@ -72,6 +72,13 @@ If there is no error it will show our shorten URL:
 If we don't set a value for alias input, it will generate a random alphanumeric value of 8 positions.
 
 
+# ISSUES
+
+- Docker not implemented 
+- Getting not existing Shortened URL doesn't return to main page in front-end (but spring returns error)
+- Code coverage (some test missing, incomplete)
+
+
 
 
 
